@@ -8,7 +8,7 @@ An easier solution would be to send the same requests.
 ## How 
 
 This project revolves mostly around Selenium, the whole idea is to make it undetectable and people have already did so (eg: Undetected_browser module ), I needed to make the closest human-like logger.
-*Note* : This project is actually very messy and amateurish, I solve a lot of issues with small fixes that aren't that secure. I'm improving on it whenever I understand better ways to do it. I invite you to fork, ask me or suggest any other method. You can even practice by adding a linkedin option. 
+*Note* : This project is actually very messy and amateurish, I solve a lot of issues with small fixes that aren't that secure. I'm improving on it whenever I understand better ways to do it. I invite you to fork, ask me or suggest any other method. You can even practice by adding a linkedin option or try adding another browser.
 
 ### Prefs
 
