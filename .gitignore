@@ -1,0 +1,11 @@
+venv/
+automatedbecodecheck/logger/__pychache__/
+automatedbecodecheck/config/logging.ini
+automatedbecodecheck/config/config.ini
+automatedbecodecheck/logger/__pycache__/__init__.cpython-310.pyc
+automatedbecodecheck/logger/__pycache__/becode_log.cpython-310.pyc
+automatedbecodecheck/logger/__pycache__/browser_backbone.cpython-310.pyc
+automatedbecodecheck/logger/__pycache__/clock_monitor.cpython-310.pyc
+automatedbecodecheck/logger/__pycache__/configurator.cpython-310.pyc
+setup.cfg
+setup.py
