@@ -62,9 +62,11 @@ You don't necessarly need to use the chrome driver to run it, but you can tinker
 
 ### Github Login
 
-- Edit the *logging_template.ini* file with your login and password and remove the *logging.ini* 
-If you are experiencing an error on this step, you are probably using a password with a special character. So you have to double a adding the special character, or escape it.
+You can use two functions unused in the main.py to generate the two necessary files.
+The easiest way is to uncomment the line 16 and 17 from the main file, which sets the configuration and logging file. Then edit it for your own use.
+Don't forget to uncomment or remove them aftwerwards.
 
+If you are experiencing an error on this step, you are probably using a password with a special character. So you have to double a adding the special character, or escape it.
 
 --------- 
 

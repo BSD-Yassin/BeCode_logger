@@ -6,8 +6,18 @@ from logger.becode_log import dict_button
 
 if __name__ == '__main__':
 
-    # Loads configuration & credentials 
+
+     
+
+    # Set the conf parser 
     conf = configurator.Config()
+    
+    # Sets the config files 
+    
+    # conf.config_set()
+    # conf.logging_set()
+    
+    # Loads configuration & credentials    
     prefs = conf.config_read()
     log_creds = conf.logging_read()
 
